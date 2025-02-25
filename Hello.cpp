@@ -4,5 +4,6 @@ int main()
 {
 	cout << "Hello World !";
 	cout << "Hello CPP";
+	cout << "Hi";
 	return 0;
 }
